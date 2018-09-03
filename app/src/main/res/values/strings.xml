@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="informe_todos_campos">Informe todos os Campos</string>
+    <string name="email_em_uso">Email já está sendo usado!</string>
+    <string name="erro_inesperado">Algo de errado aconteceu tente novamente</string>
+    <string name="entrar">Entrar</string>
+    <string name="usuario_incorreto">Usuário ou senha incorretos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descricao">Descrição</string>
+    <string name="completa">Completa</string>
+    <string name="clique_para_selecionar_a_data">Clique para Selecionar a data</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="tarefa_inserida">Tarefa foi inserida com sucesso</string>
+    <string name="usuario_nao_existe">Usuário não existe mais</string>
+</resources>
